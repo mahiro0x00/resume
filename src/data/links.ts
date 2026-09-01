@@ -7,7 +7,7 @@ export interface Link {
 export const links: Link[] = [
   {
     name: "GitHub",
-    url: "https://github.com/mahiro72",
+    url: "https://github.com/mahiro0x00",
     icon: "github",
   },
   {
