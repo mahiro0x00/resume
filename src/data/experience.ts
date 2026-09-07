@@ -13,31 +13,46 @@ export const experiences: Experience[] = [
   // 現在の職歴
   {
     date: {
-      ja: "2023/04 - 現在",
-      en: "2023/04 - Present",
-    },
-    name: {
-      ja: "株式会社ZOZO",
-      en: "ZOZO, Inc.",
-    },
-    description: {
-      ja: "正社員（バックエンドエンジニア）/ Golangを用いて基盤APIやAPI Gatewayの開発運用に従事しています。",
-      en: "Full-time Backend Engineer / Developing core APIs and API Gateway using Go",
-    },
-    type: "work",
-  },
-  {
-    date: {
-      ja: "2025/03 - 現在",
-      en: "2025/03 - Present",
+      ja: "2026/09 - 現在",
+      en: "2026/09 - Present",
     },
     name: {
       ja: "まほろば創研株式会社",
       en: "Mahoroba Souken Inc.",
     },
     description: {
-      ja: "業務委託(テックリード) / 設備異常の予知保全に特化したAIやSaaSの開発に取り組んでいます。",
-      en: "Software Engineer / Developing AI and SaaS specialized in predictive maintenance for equipment anomalies",
+      ja: "取締役CTO / 設備の予知保全に向けた共創案件や自社プロダクト（配管腐食検査、ポンプ異常検知、漏電検知など）の開発を統括しています。",
+      en: "Director & CTO / Leading development of co-created projects and in-house products for predictive maintenance of equipment (pipe corrosion inspection, pump anomaly detection, electrical leakage detection)",
+    },
+    type: "work",
+  },
+  {
+    date: {
+      ja: "2023/04 - 2026/08",
+      en: "2023/04 - 2026/08",
+    },
+    name: {
+      ja: "株式会社ZOZO",
+      en: "ZOZO, Inc.",
+    },
+    description: {
+      ja: "正社員（バックエンドエンジニア）/ Golangを用いて基盤APIやAPI Gatewayの開発運用に従事しました。",
+      en: "Full-time Backend Engineer / Developed and operated core APIs and API Gateway using Go",
+    },
+    type: "work",
+  },
+  {
+    date: {
+      ja: "2025/03 - 2026/08",
+      en: "2025/03 - 2026/08",
+    },
+    name: {
+      ja: "まほろば創研株式会社",
+      en: "Mahoroba Souken Inc.",
+    },
+    description: {
+      ja: "業務委託（テックリード）/ 配管腐食検査AIをはじめとした、設備異常の予知保全に特化したAIやSaaSの開発に取り組みました。",
+      en: "Tech Lead / Developed AI and SaaS for predictive maintenance of equipment anomalies, including pipe corrosion inspection AI",
     },
     type: "work",
   },

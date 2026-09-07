@@ -15,10 +15,10 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Mahiro Yoshie | Software Engineer",
-  description: "Backend Engineer at ZOZO, Inc. Specializing in Go, microservices, and API development.",
+  description: "Director & CTO at Mahoroba Souken Inc., a company working on predictive maintenance of equipment through co-creation with industry partners and its own products.",
   openGraph: {
     title: "Mahiro Yoshie | Software Engineer",
-    description: "Backend Engineer at ZOZO, Inc. Specializing in Go, microservices, and API development.",
+    description: "Director & CTO at Mahoroba Souken Inc., a company working on predictive maintenance of equipment through co-creation with industry partners and its own products.",
     type: "website",
   },
 };

@@ -24,8 +24,8 @@ export const profile: Profile = {
   },
   email: "mahiro.yoshie@gmail.com",
   bio: {
-    ja: "こんにちは、mahiroです。\n\n普段はメガベンチャーにて、バックエンドエンジニアとして働いています。業務内容としては、Golangを用いたマイクロサービスやAPI Gatewayの設計、開発、運用などしています。\n8月末に現職を退職し、9月からは別の会社に転職します。\n日本酒とお寿司、猫が好きです。🐈",
-    en: "Hi, I'm mahiro.\n\nI work as a backend engineer at a major tech company in Japan. My main responsibilities include designing, developing, and operating microservices and API Gateways using Go.\nI'm leaving my current job at the end of August and joining a new company in September.\nI love sake, sushi, and cats. 🐈",
+    ja: "こんにちは、mahiroです。\n\nまほろば創研株式会社で取締役CTOをしています。まほろば創研は、設備の『予知保全』に特化したAIやシステムを開発している会社です。予知保全とは、設備の不具合の兆候を察知して、故障を事前に防ぐことです。検査会社などドメイン知識を持つ企業との共創を通じて、配管腐食の検査AIやポンプ異常検知、漏電検知といった仕組みを作っています。\n\n日本酒とお寿司、猫が好きです。🐈",
+    en: "Hi, I'm mahiro.\n\nI'm Director & CTO at Mahoroba Souken Inc., a company that develops AI and systems specialized in predictive maintenance of equipment. Predictive maintenance means detecting early signs of equipment trouble and preventing failures before they happen. Together with partners who have deep domain knowledge, such as inspection companies, we build systems such as pipe corrosion inspection AI, pump anomaly detection, and electrical leakage detection.\n\nI love sake, sushi, and cats. 🐈",
   },
   avatar: "/images/avatar.png",
 };
